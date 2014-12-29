@@ -1,2 +1,2 @@
-java_websocket_chat
+Java和WebSocket开发网页聊天室源代码
 ===================
